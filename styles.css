@@ -21,8 +21,8 @@
   --bg: #ffffff;
   --bg-tint: #fafcff;
   --header: #0a1628;
-  --accent: var(--blue-300);
-  --accent-soft: rgba(91, 155, 213, 0.14);
+  --accent: var(--blue-500);
+  --accent-soft: rgba(45, 106, 159, 0.14);
   --blue-dark: var(--blue-700);
   --blue-mid: var(--blue-400);
   --blue-light: var(--blue-200);
@@ -534,7 +534,7 @@ h3:first-child {
   display: block;
   width: 4rem;
   height: 4px;
-  background: linear-gradient(90deg, var(--accent), rgba(100, 181, 246, 0.5));
+  background: linear-gradient(90deg, var(--accent), rgba(61, 122, 184, 0.5));
   margin-top: 0.85rem;
   border-radius: 2px;
 }
